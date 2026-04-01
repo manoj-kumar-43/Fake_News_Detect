@@ -1,3 +1,1 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+Live Demo of application:- https://fake-news-detect-five.vercel.app/
